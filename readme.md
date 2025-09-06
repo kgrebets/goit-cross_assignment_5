@@ -7,11 +7,11 @@
 ---
 
 📷 *Скріншот b1*  
-![Boxes list](./b1.png)
+![Boxes list](./b1.jpg)
 
 📷 *Скріншот b2*  
-![Box details loading](./b2.png)
+![Box details loading](./b2.jpg)
 
 📷 *Скріншот b3*  
-![Invalid ID](./b3.png)
+![Invalid ID](./b3.jpg)
 
